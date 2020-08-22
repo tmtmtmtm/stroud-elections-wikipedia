@@ -1,0 +1,155 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q76363409,Siobhan Baillie,Q9626,Conservative Party (UK),31582,Q30173038,General election 2019,1
+Q728653,David Drew,Q6467393,Labour and Co-operative,27742,Q30173038,General election 2019,2
+Q6896677,Molly Scott Cato,Q9669,Green Party of England and Wales,4954,Q30173038,General election 2019,3
+,Desi Latimer,Q61651140,Brexit Party,1085,Q30173038,General election 2019,4
+,Glenville Gogerly,Q3997368,Libertarian Party (UK),567,Q30173038,General election 2019,5
+Q728653,David Drew,Q6467393,Labour and Co-operative,29994,Q25052149,General election 2017,1
+Q269260,Neil Carmichael,Q9626,Conservative Party (UK),29307,Q25052149,General election 2017,2
+,Max Wilkinson,Q9624,Liberal Democrats (UK),2053,Q25052149,General election 2017,3
+,Sarah Lunnon,Q9669,Green Party of England and Wales,1423,Q25052149,General election 2017,4
+,Glenville Gogerly,Q10647,UK Independence Party,1039,Q25052149,General election 2017,5
+Q269260,Neil Carmichael,Q9626,Conservative Party (UK),27813,Q3586935,General election 2015,1
+Q728653,David Drew,Q6467393,Labour and Co-operative,22947,Q3586935,General election 2015,2
+,Caroline Stephens,Q10647,UK Independence Party,4848,Q3586935,General election 2015,3
+,Sarah Lunnon,Q9669,Green Party of England and Wales,2779,Q3586935,General election 2015,4
+,Adrian Walker-Smith,Q9624,Liberal Democrats (UK),2086,Q3586935,General election 2015,5
+,Richard Wilson,Q327591,Independent politician,246,Q3586935,General election 2015,6
+,David Michael,,,100,Q3586935,General election 2015,7
+Q269260,Neil Carmichael,Q9626,Conservative Party (UK),23679,Q215622,General election 2010,1
+Q728653,David Drew,Q6467393,Labour and Co-operative,22380,Q215622,General election 2010,2
+,Dennis Andrewartha,Q9624,Liberal Democrats (UK),8955,Q215622,General election 2010,3
+,Martin Whiteside,Q9669,Green Party of England and Wales,1542,Q215622,General election 2010,4
+,Steve Parker,Q10647,UK Independence Party,1301,Q215622,General election 2010,5
+,Alan Lomas,Q327591,Independent politician,116,Q215622,General election 2010,6
+Q728653,David Drew,Q6467393,Labour and Co-operative,22527,Q428598,General election 2005,1
+Q269260,Neil Carmichael,Q9626,Conservative Party (UK),22177,Q428598,General election 2005,2
+,Peter Hirst,Q9624,Liberal Democrats (UK),8026,Q428598,General election 2005,3
+,Martin Whiteside,Q9669,Green Party of England and Wales,3056,Q428598,General election 2005,4
+,Edward Noble,Q10647,UK Independence Party,1089,Q428598,General election 2005,5
+Q728653,David Drew,Q6467393,Labour and Co-operative,25685,Q590740,General election 2001,1
+Q269260,Neil Carmichael,Q9626,Conservative Party (UK),20646,Q590740,General election 2001,2
+,Janice Beasley,Q9624,Liberal Democrats (UK),6036,Q590740,General election 2001,3
+,Kevin Cranston,Q9669,Green Party of England and Wales,1913,Q590740,General election 2001,4
+,Adrian Blake,Q10647,UK Independence Party,895,Q590740,General election 2001,5
+Q728653,David Drew,Q6467393,Labour and Co-operative,26170,Q918503,General election 1997,1
+Q7358482,Roger Knapman,Q9626,Conservative Party (UK),23260,Q918503,General election 1997,2
+,Paul Hodgkinson,Q9624,Liberal Democrats (UK),9502,Q918503,General election 1997,3
+,John Marjoram,Q9669,Green Party of England and Wales,2415,Q918503,General election 1997,4
+Q7358482,Roger Knapman,Q9626,Conservative Party (UK),32201,Q543609,General election 1992,1
+Q728653,David Drew,Q9630,Labour Party (UK),18796,Q543609,General election 1992,2
+,Myles P. Robinson,Q9624,Liberal Democrats (UK),16751,Q543609,General election 1992,3
+,Sue M Atkinson,Q9669,Green Party of England and Wales,2005,Q543609,General election 1992,4
+Q7358482,Roger Knapman,Q9626,Conservative Party (UK),32883,Q918472,General election 1987,1
+,Adrian Walker-Smith,Q622441,Liberal Party (UK),20508,Q918472,General election 1987,2
+Q7816576,Tom Levitt,Q9630,Labour Party (UK),12145,Q918472,General election 1987,3
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),30896,Q918466,General election 1983,1
+,G. Fallon,Q622441,Liberal Party (UK),19182,Q918466,General election 1983,2
+,D.R. Parsons,Q9630,Labour Party (UK),10141,Q918466,General election 1983,3
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),32534,Q918450,General election 1979,1
+,B.J. Marshall,Q9630,Labour Party (UK),17037,Q918450,General election 1979,2
+,James Heppell,Q622441,Liberal Party (UK),12314,Q918450,General election 1979,3
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),24406,Q918508,General election October 1974,1
+,W.H. Maddocks,Q9630,Labour Party (UK),17352,Q918508,General election October 1974,2
+,S.A. Ritchie,Q622441,Liberal Party (UK),13756,Q918508,General election October 1974,3
+,J.S. Churchill,Q7887704,United Democratic Party (UK),241,Q918508,General election October 1974,4
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),25619,Q119524,General election February 1974,1
+,W.H. Maddocks,Q9630,Labour Party (UK),17148,Q119524,General election February 1974,2
+,S.A. Ritchie,Q622441,Liberal Party (UK),15521,Q119524,General election February 1974,3
+,J.S. Churchill,,,470,Q119524,General election February 1974,4
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),27089,Q918442,General election 1970,1
+,R. Derek Wheatley,Q9630,Labour Party (UK),19158,Q918442,General election 1970,2
+,David M. Davies,Q622441,Liberal Party (UK),6799,Q918442,General election 1970,3
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),21804,Q918430,General election 1966,1
+Q5612827,Tom Cox,Q9630,Labour Party (UK),20259,Q918430,General election 1966,2
+,John V. Smith,Q622441,Liberal Party (UK),8397,Q918430,General election 1966,3
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),21802,Q220208,General election 1964,1
+,Dennis V. Hunt,Q9630,Labour Party (UK),18889,Q220208,General election 1964,2
+,Iain P. Crawford,Q622441,Liberal Party (UK),8747,Q220208,General election 1964,3
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),23448,Q918420,General election 1959,1
+Q4722654,Alfred Evans,Q9630,Labour Party (UK),18336,Q918420,General election 1959,2
+,Clement McNair,Q622441,Liberal Party (UK),6988,Q918420,General election 1959,3
+Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),23318,Q918412,General election 1955,1
+,Richard W. Evely,Q9630,Labour Party (UK),19375,Q918412,General election 1955,2
+,Eric Barnett Ayliffe,Q622441,Liberal Party (UK),4489,Q918412,General election 1955,3
+Q4886271,Ben Parkin,Q9630,Labour Party (UK),22495,Q918397,General election 1945,1
+Q7965820,Walter Perkins,Q9626,Conservative Party (UK),21546,Q918397,General election 1945,2
+Q7173144,Peter Cadbury,Q622441,Liberal Party (UK),11141,Q918397,General election 1945,3
+Q7965820,Walter Perkins,Q9626,Conservative Party (UK),24282,Q918378,General election 1935,1
+Q96655648,Constance Borrett,Q9630,Labour Party (UK),14133,Q918378,General election 1935,2
+Q7965820,Walter Perkins,Q9626,Conservative Party (UK),27612,Q918375,General election 1931,1
+,F W Davies,Q9630,Labour Party (UK),11039,Q918375,General election 1931,2
+Q7965820,Walter Perkins,Q9626,Unionist Party (UK),17641,Q16889272,1931 Stroud by-election,1
+Q60754221,John Maynard,Q9630,Labour Party (UK),10688,Q16889272,1931 Stroud by-election,2
+Q16889272,Arthur Stanton,Q622441,Liberal Party (UK),7267,Q16889272,1931 Stroud by-election,3
+Q5488633,Frank Nelson,Q9626,Unionist Party (UK),17700,Q517639,General election 1929,1
+Q16889272,Arthur Stanton,Q622441,Liberal Party (UK),11728,Q517639,General election 1929,2
+Q78912171,F. E. White,Q9630,Labour Party (UK),10384,Q517639,General election 1929,3
+Q5488633,Frank Nelson,Q9626,Unionist Party (UK),15973,Q2632991,General election 1924,1
+Q5338643,Edith Picton-Turbervill,Q9630,Labour Party (UK),7418,Q2632991,General election 1924,2
+Q16889272,Arthur Stanton,Q622441,Liberal Party (UK),6057,Q2632991,General election 1924,3
+Q3425074,Frederick Guest,Q622441,Liberal Party (UK),15179,Q3084294,General election 1923,1
+Q7528982,Stanley Tubbs,Q9626,Unionist Party (UK),13355,Q3084294,General election 1923,2
+Q7528982,Stanley Tubbs,Q9626,Unionist Party (UK),14723,Q3084303,General election 1922,1
+Q5081606,Charles Allen,Q622441,Liberal Party (UK),9041,Q3084303,General election 1922,2
+,Samuel Edward Walters,Q9630,Labour Party (UK),5081,Q3084303,General election 1922,3
+Q7341630,Ashton Lister,Q622441,Liberal Party (UK),12734,Q3042701,General election 1918,1
+,Charles Wye Kendall,Q9630,Labour Party (UK),8522,Q3042701,General election 1918,2
+Q5081606,Charles Allen,Q622441,Liberal Party (UK),5051,Q3076583,General election December 1910,1
+,Cecil Edwin Fitch,Q9626,Conservative Party (UK),4849,Q3076583,General election December 1910,2
+Q5081606,Charles Allen,Q622441,Liberal Party (UK),5285,Q3075752,General election January 1910,1
+,Arthur William Clifford,Q9626,Conservative Party (UK),4962,Q3075752,General election January 1910,2
+Q5081606,Charles Allen,Q622441,Liberal Party (UK),5401,Q3076606,General election 1906,1
+,William Burton Stewart,Q9626,Conservative Party (UK),4221,Q3076606,General election 1906,2
+Q5081606,Charles Allen,Q622441,Liberal Party (UK),4692,Q918358,General election 1900,1
+Q337704,Charles Cripps,Q9626,Conservative Party (UK),4379,Q918358,General election 1900,2
+Q337704,Charles Cripps,Q9626,Conservative Party (UK),5175,Q7888019,General election 1895,1
+Q5081606,Charles Allen,Q622441,Liberal Party (UK),4514,Q7888019,General election 1895,2
+Q5231862,David Brynmor Jones,Q622441,Liberal Party (UK),4611,Q7888018,General election 1892,1
+Q5540687,George Holloway,Q9626,Conservative Party (UK),4410,Q7888018,General election 1892,2
+Q5540687,George Holloway,Q9626,Conservative Party (UK),4620,Q7888016,General election 1886,1
+Q7965281,Walter John Stanton,Q622441,Liberal Party (UK),3911,Q7888016,General election 1886,2
+Q3132661,Henry Brand,Q622441,Liberal Party (UK),4646,Q3397257,General election 1885,1
+Q5540687,George Holloway,Q9626,Conservative Party (UK),4333,Q3397257,General election 1885,2
+Q7965281,Walter John Stanton,Q622441,Liberal Party (UK),3098,Q2074515,General election 1880,1
+Q3132661,Henry Brand,Q622441,Liberal Party (UK),3081,Q2074515,General election 1880,2
+Q5540687,George Holloway,Q9626,Conservative Party (UK),2810,Q2074515,General election 1880,3
+Q6229817,John Dorington,Q9626,Conservative Party (UK),2722,Q2074515,General election 1880,4
+Q7412109,Samuel Marling,Q622441,Liberal Party (UK),2783,,"Stroud by-election, 12 February 1875",1
+Q628089,William Keppel,Q9626,Conservative Party (UK),2577,,"Stroud by-election, 12 February 1875",2
+Q3132661,Henry Brand,Q622441,Liberal Party (UK),2695,,"Stroud by-election, 27 July 1874",1
+,James Thomas Stanton,Q9626,Conservative Party (UK),2613,,"Stroud by-election, 27 July 1874",2
+Q6229817,John Dorington,Q9626,Conservative Party (UK),2796,,"Stroud by-election, 18 May 1874",1
+Q4722970,Alfred John Stanton,Q622441,Liberal Party (UK),2722,,"Stroud by-election, 18 May 1874",2
+Q3132661,Henry Brand,Q622441,Liberal Party (UK),2677,,"Stroud by-election, 18 May 1874",3
+Q5540687,George Holloway,Q9626,Conservative Party (UK),2582,,"Stroud by-election, 18 May 1874",4
+Q7965281,Walter John Stanton,Q622441,Liberal Party (UK),2798,Q918351,General election 1874,1
+Q7442401,Sebastian Dickinson,Q622441,Liberal Party (UK),2794,Q918351,General election 1874,2
+Q6229817,John Dorington,Q9626,Conservative Party (UK),2763,Q918351,General election 1874,3
+Q5540687,George Holloway,Q9626,Conservative Party (UK),2467,Q918351,General election 1874,4
+Q6229817,John Dorington,Q9626,Conservative Party (UK),2817,Q16889893,"By-election, 8 Jan 1874",1
+Q7527149,Henry Allan,Q622441,Liberal Party (UK),2426,Q16889893,"By-election, 8 Jan 1874",2
+Q7442401,Sebastian Dickinson,Q622441,Liberal Party (UK),2907,Q2074525,General election 1868,1
+Q15109540,Henry Winterbotham,Q622441,Liberal Party (UK),2805,Q2074525,General election 1868,2
+Q6229817,John Dorington,Q9626,Conservative Party (UK),2096,Q2074525,General election 1868,3
+Q15109540,Henry Winterbotham,Q622441,Liberal Party (UK),580,,"By-election, 20 August 1867",1
+Q6229817,John Dorington,Q9626,Conservative Party (UK),508,,"By-election, 20 August 1867",2
+Q333370,Edward Horsman,Q622441,Liberal Party (UK),687,Q2074533,General election 1865,1
+Q707126,George Scrope,Q622441,Liberal Party (UK),685,Q2074533,General election 1865,2
+Q4805554,Ashley Ponsonby,Q622441,Liberal Party (UK),287,Q2074533,General election 1865,3
+Q707126,George Scrope,Q108700,Whigs (British political party),565,Q3943728,General election 1852,1
+Q5727493,Henry Reynolds-Moreton,Q108700,Whigs (British political party),528,Q3943728,General election 1852,2
+,Samuel Baker,Q9626,Conservative Party (UK),488,Q3943728,General election 1852,3
+,John Norton,Q1687668,Radicals (UK),316,Q3943728,General election 1852,4
+Q8012169,William Henry Stanton,Q108700,Whigs (British political party),563,Q2073198,General election 1847,1
+Q707126,George Julius Poulett Scrope,Q108700,Whigs (British political party),541,Q2073198,General election 1847,2
+,Marcus Mereweather Turner,Q1687668,Radicals (UK),176,Q2073198,General election 1847,3
+Q8012169,William Henry Stanton,Q108700,Whigs (British political party),594,Q2073185,General election 1841,1
+Q707126,George Julius Poulett Scrope,Q108700,Whigs (British political party),527,Q2073185,General election 1841,2
+,William Lascelles Wraxall,Q9626,Conservative Party (UK),377,Q2073185,General election 1841,3
+Q707126,George Julius Poulett Scrope,Q108700,Whigs (British political party),698,Q2037966,General election 1837,1
+Q157259,John Russell,Q108700,Whigs (British political party),681,Q2037966,General election 1837,2
+,John Adams,Q9626,Conservative Party (UK),297,Q2037966,General election 1837,3
+Q707126,George Julius Poulett Scrope,Q108700,Whigs (British political party),866,Q1834355,General election 1835,1
+Q5082014,Charles Richard Fox,Q108700,Whigs (British political party),708,Q1834355,General election 1835,2
+Q16859148,Jelinger Cookson Symons,Q1687668,Radicals (UK),187,Q1834355,General election 1835,3
