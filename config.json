@@ -1,0 +1,18 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Stroud_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q988211",
+    "start": "1955",
+    "end": "9999"
+  }, {
+    "id": "Q43039860",
+    "start": "1885",
+    "end": "1950"
+  }, {
+    "id": "Q56189352",
+    "start": "1832",
+    "end": "1885"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
