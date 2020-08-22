@@ -1,6 +1,7 @@
 #!/bin/env ruby
 # frozen_string_literal: true
 
+require 'json'
 require 'pry'
 require 'scraped'
 require 'wikidata_ids_decorator'
@@ -42,5 +43,7 @@ class Candidate < WikipediaCandidateRow
   end
 end
 
-url = ARGV.first
-puts Scraped::Wikipedia::PositionHolders.new(url => Candidates).to_csv
+jsonfile = ARGV.first or abort "Usage: #$0 <configfile>"
+config = JSON.parse(File.read(jsonfile), symbolize_names: true)
+url = config[:wikipedia] or abort "No <wikipedia> URL in config"
+puts Scraped::Wikipedia::PositionHolders.new(url => Candidates).to_csv(config[:mapping])

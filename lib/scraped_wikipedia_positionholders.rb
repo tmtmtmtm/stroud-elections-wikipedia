@@ -14,8 +14,12 @@ module Scraped
         @rows = scraper.rows
       end
 
-      def to_csv
-        fields.to_csv + rows.map { |row| row.values.to_csv }.join
+      def to_csv(remap={})
+        fields.to_csv + rows.map do |row|
+          row[:party] ||= remap[:party][row[:partyLabel].to_sym]
+          row[:election] ||= remap[:election][row[:electionLabel].to_sym]
+          row.values.to_csv
+        end.join
       end
 
       private

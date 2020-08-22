@@ -17,7 +17,7 @@ class WikipediaCandidateRow < WikipediaTableRow
   end
 
   field :partyLabel do
-    link_titles_in(party_cell).first if party_cell
+    (link_titles_in(party_cell).first || party_cell.text.tidy) if party_cell
   end
 
   field :votes do
