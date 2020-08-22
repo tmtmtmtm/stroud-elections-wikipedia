@@ -14,5 +14,17 @@
     "end": "1885"
   }],
   "combofile": "combo.csv",
-  "new_person_description": "UK election candidate"
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+      "Stroud by-election, 12 February 1875": "Q98555025",
+      "Stroud by-election, 27 July 1874": "Q98555026",
+      "Stroud by-election, 18 May 1874": "Q98555030",
+      "By-election, 20 August 1867": "Q98555029"
+    },
+    "party" : {
+      "Free Public Transport": "Q98555021",
+      "Powell Conservative": "Q98555022"
+    }
+  }
 }
