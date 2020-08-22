@@ -15,7 +15,7 @@ Q728653,David Drew,Q6467393,Labour and Co-operative,22947,Q3586935,General elect
 ,Sarah Lunnon,Q9669,Green Party of England and Wales,2779,Q3586935,General election 2015,4
 ,Adrian Walker-Smith,Q9624,Liberal Democrats (UK),2086,Q3586935,General election 2015,5
 ,Richard Wilson,Q327591,Independent politician,246,Q3586935,General election 2015,6
-,David Michael,,,100,Q3586935,General election 2015,7
+,David Michael,Q98555021,Free Public Transport,100,Q3586935,General election 2015,7
 Q269260,Neil Carmichael,Q9626,Conservative Party (UK),23679,Q215622,General election 2010,1
 Q728653,David Drew,Q6467393,Labour and Co-operative,22380,Q215622,General election 2010,2
 ,Dennis Andrewartha,Q9624,Liberal Democrats (UK),8955,Q215622,General election 2010,3
@@ -56,7 +56,7 @@ Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),24406,Q918508,General elec
 Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),25619,Q119524,General election February 1974,1
 ,W.H. Maddocks,Q9630,Labour Party (UK),17148,Q119524,General election February 1974,2
 ,S.A. Ritchie,Q622441,Liberal Party (UK),15521,Q119524,General election February 1974,3
-,J.S. Churchill,,,470,Q119524,General election February 1974,4
+,J.S. Churchill,Q98555022,Powell Conservative,470,Q119524,General election February 1974,4
 Q573477,Anthony Kershaw,Q9626,Conservative Party (UK),27089,Q918442,General election 1970,1
 ,R. Derek Wheatley,Q9630,Labour Party (UK),19158,Q918442,General election 1970,2
 ,David M. Davies,Q622441,Liberal Party (UK),6799,Q918442,General election 1970,3
@@ -115,14 +115,14 @@ Q7965281,Walter John Stanton,Q622441,Liberal Party (UK),3098,Q2074515,General el
 Q3132661,Henry Brand,Q622441,Liberal Party (UK),3081,Q2074515,General election 1880,2
 Q5540687,George Holloway,Q9626,Conservative Party (UK),2810,Q2074515,General election 1880,3
 Q6229817,John Dorington,Q9626,Conservative Party (UK),2722,Q2074515,General election 1880,4
-Q7412109,Samuel Marling,Q622441,Liberal Party (UK),2783,,"Stroud by-election, 12 February 1875",1
-Q628089,William Keppel,Q9626,Conservative Party (UK),2577,,"Stroud by-election, 12 February 1875",2
-Q3132661,Henry Brand,Q622441,Liberal Party (UK),2695,,"Stroud by-election, 27 July 1874",1
-,James Thomas Stanton,Q9626,Conservative Party (UK),2613,,"Stroud by-election, 27 July 1874",2
-Q6229817,John Dorington,Q9626,Conservative Party (UK),2796,,"Stroud by-election, 18 May 1874",1
-Q4722970,Alfred John Stanton,Q622441,Liberal Party (UK),2722,,"Stroud by-election, 18 May 1874",2
-Q3132661,Henry Brand,Q622441,Liberal Party (UK),2677,,"Stroud by-election, 18 May 1874",3
-Q5540687,George Holloway,Q9626,Conservative Party (UK),2582,,"Stroud by-election, 18 May 1874",4
+Q7412109,Samuel Marling,Q622441,Liberal Party (UK),2783,Q98555025,"Stroud by-election, 12 February 1875",1
+Q628089,William Keppel,Q9626,Conservative Party (UK),2577,Q98555025,"Stroud by-election, 12 February 1875",2
+Q3132661,Henry Brand,Q622441,Liberal Party (UK),2695,Q98555026,"Stroud by-election, 27 July 1874",1
+,James Thomas Stanton,Q9626,Conservative Party (UK),2613,Q98555026,"Stroud by-election, 27 July 1874",2
+Q6229817,John Dorington,Q9626,Conservative Party (UK),2796,Q98555030,"Stroud by-election, 18 May 1874",1
+Q4722970,Alfred John Stanton,Q622441,Liberal Party (UK),2722,Q98555030,"Stroud by-election, 18 May 1874",2
+Q3132661,Henry Brand,Q622441,Liberal Party (UK),2677,Q98555030,"Stroud by-election, 18 May 1874",3
+Q5540687,George Holloway,Q9626,Conservative Party (UK),2582,Q98555030,"Stroud by-election, 18 May 1874",4
 Q7965281,Walter John Stanton,Q622441,Liberal Party (UK),2798,Q918351,General election 1874,1
 Q7442401,Sebastian Dickinson,Q622441,Liberal Party (UK),2794,Q918351,General election 1874,2
 Q6229817,John Dorington,Q9626,Conservative Party (UK),2763,Q918351,General election 1874,3
@@ -132,8 +132,8 @@ Q7527149,Henry Allan,Q622441,Liberal Party (UK),2426,Q16889893,"By-election, 8 J
 Q7442401,Sebastian Dickinson,Q622441,Liberal Party (UK),2907,Q2074525,General election 1868,1
 Q15109540,Henry Winterbotham,Q622441,Liberal Party (UK),2805,Q2074525,General election 1868,2
 Q6229817,John Dorington,Q9626,Conservative Party (UK),2096,Q2074525,General election 1868,3
-Q15109540,Henry Winterbotham,Q622441,Liberal Party (UK),580,,"By-election, 20 August 1867",1
-Q6229817,John Dorington,Q9626,Conservative Party (UK),508,,"By-election, 20 August 1867",2
+Q15109540,Henry Winterbotham,Q622441,Liberal Party (UK),580,Q98555029,"By-election, 20 August 1867",1
+Q6229817,John Dorington,Q9626,Conservative Party (UK),508,Q98555029,"By-election, 20 August 1867",2
 Q333370,Edward Horsman,Q622441,Liberal Party (UK),687,Q2074533,General election 1865,1
 Q707126,George Scrope,Q622441,Liberal Party (UK),685,Q2074533,General election 1865,2
 Q4805554,Ashley Ponsonby,Q622441,Liberal Party (UK),287,Q2074533,General election 1865,3
